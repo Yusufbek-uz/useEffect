@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+body{
+  background: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+}
+
+main{
+  margin: 40px 0;
+  padding: 40px 0;
+  height: 100%;
+  display: flex;
+}
+
+i{
+  color: white;
+}
